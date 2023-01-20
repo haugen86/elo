@@ -1,3 +1,5 @@
+This is a fork of zelenin/elo
+
 # Elo
 
 A PHP implementation of [Elo rating system](http://en.wikipedia.org/wiki/Elo_rating_system)

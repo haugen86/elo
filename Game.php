@@ -4,7 +4,7 @@ namespace Zelenin\Elo;
 
 use Closure;
 
-class Match
+class Game
 {
     /** @var Player */
     private $player1;
