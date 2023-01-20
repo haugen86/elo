@@ -1,6 +1,6 @@
 <?php
 
-namespace Zelenin\Elo;
+namespace haugen86\Elo;
 
 use Closure;
 
